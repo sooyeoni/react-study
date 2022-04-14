@@ -6,7 +6,7 @@ node version 164.17.6 LTS<br/>
 [Download](https://nodejs.org/ko/)
 
 
-## project Install
+### project Install
 폴더별로 node_modules가 생성 되어야합니다.<br/> 
 vsCode에서 터미널을 띄워 아래처럼 진행<br/> 
 터미널 단축키 : ctrl + `
@@ -26,7 +26,9 @@ cd day01
 npm i
 ```
 
-##project start
+### project start
+node_modules가 있는 프로젝트에서 실행시켜야합니다.
+
 ```
 npm start
 ```
