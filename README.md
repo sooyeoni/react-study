@@ -33,7 +33,7 @@ node_modules가 있는 프로젝트에서 실행시켜야합니다.
 npm start
 ```
 
-##react chrome 확장프로그램
+### react chrome 확장프로그램
 
 [Download](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
 
