@@ -47,7 +47,7 @@ cd 프로젝트명
 ```
 - 실행
 ```
-npm start or yarn start
+npm start
 ```
 [참고사이트 바로가기](https://create-react-app.dev/docs/getting-started)
 
