@@ -1,5 +1,6 @@
 # react-study
-리액트 수업 완성본 파일
+리액트 수업 완성본 파일<br/>
+리액트-https://ko.reactjs.org/
 
 ## npm install
 node version 164.17.6 LTS<br/> 
@@ -53,7 +54,7 @@ npm start or yarn start
 ### react chrome 확장프로그램
 [Download 바로가기](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
 
-## VSCODE 확장프로그램
+### VSCODE 확장프로그램
 Reactjs code snippets<br/>
 Korean Language Pack for Visual Studio Code<br/> 
 Auto Close Tag<br/> 
