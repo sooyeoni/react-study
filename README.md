@@ -5,6 +5,8 @@
 node version 164.17.6 LTS<br/> 
 [Download](https://nodejs.org/ko/)
 
+## yarn install
+[Download](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 
 ### project Install
 폴더별로 node_modules가 생성 되어야합니다.<br/> 
@@ -33,9 +35,34 @@ node_modules가 있는 프로젝트에서 실행시켜야합니다.
 npm start
 ```
 
-### react chrome 확장프로그램
+### 새 프로잭트 생성
+- 생성
+```
+npx create-react-app 프로젝트명
+```
+- 생성 프로젝트로 이동
+```
+cd 프로젝트명
+```
+- 실행
+```
+npm start or yarn start
+```
+[참고사이트 바로가기](https://create-react-app.dev/docs/getting-started)
 
-[Download](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
+### react chrome 확장프로그램
+[Download 바로가기](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
+
+## VSCODE 확장프로그램
+Reactjs code snippets
+Korean Language Pack for Visual Studio Code
+Auto Close Tag
+Auto Complete Tag
+Auto Import 
+Auto Rename Tag
+
+
+
 
 
 
