@@ -54,11 +54,11 @@ npm start or yarn start
 [Download 바로가기](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko)
 
 ## VSCODE 확장프로그램
-Reactjs code snippets
-Korean Language Pack for Visual Studio Code
-Auto Close Tag
-Auto Complete Tag
-Auto Import 
+Reactjs code snippets<br/>
+Korean Language Pack for Visual Studio Code<br/> 
+Auto Close Tag<br/> 
+Auto Complete Tag<br/> 
+Auto Import <br/> 
 Auto Rename Tag
 
 
